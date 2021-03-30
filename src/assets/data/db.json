@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "formal shirt",
+      "category_id": 1,
+      "description": "desc two",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/shirt2.jpg",
+      "rating": 3,
+      "review": 120,
+      "vendor_name": "ayc shop",
+      "warranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "casual shirt",
+      "category_id": 4,
+      "description": "desc three",
+      "price": 600,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/shirt3.jpg",
+      "rating": 6,
+      "review": 110,
+      "vendor_name": "ac shop",
+      "warranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "formal shirt",
+      "category_id": 3,
+      "description": "desc four",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/shirt4.jpg",
+      "rating": 9,
+      "review": 180,
+      "vendor_name": "ayc shop",
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "lehenga for wedding",
+      "category_id": 2,
+      "description": "desc five",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/lehenga.jpg",
+      "rating": 1,
+      "review": 190,
+      "vendor_name": "ayc shop",
+      "warranty": 1
+    },
+    {
+      "id": "2121",
+      "categoryId": "212",
+      "productName": "mobile",
+      "description": "t-shirt desc",
+      "rating": "5",
+      "color": "red",
+      "productImg": "",
+      "isAvailable": 1,
+      "price": "200",
+      "reviews": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "men"
+    },
+    {
+      "id": 3,
+      "categoryName": "women"
+    },
+    {
+      "id": 4,
+      "categoryName": "home and furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "baby & kids"
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "email": "bindu",
+      "password": "bindu"
+    },
+    {
+      "id": 2,
+      "email": "yeshwin@yesh.com",
+      "password": "yeshwin"
+    },
+    {
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
